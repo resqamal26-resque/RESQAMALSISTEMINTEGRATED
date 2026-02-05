@@ -1,0 +1,9 @@
+kemaskini 
+-no id kes berdasrakan formast ; tarikh + no kes- 260205+xxx; contoh 260205-001, no kes auto increment berdasarkan rekod kes yang dihantar 
+dan dilaporkan oleh responder 
+-paparan senraia kes - papran ringkan, serta pautan membuka maklumat lengkap ; dengan view modal popup 
+- fungsi kemaskini maklumat kes, reshare maklumat kes ke wasap/ mecc 
+- di setiap pparan kes disertakan link ke lokasi kes mengikut laporan yang telah dihntar . 
+-notifikasi popup pada akses mecc, - responder log masuk tugas. log keluar tugas, hantar laporan kes. 
+- notifikasi juga di rekod di log mesej . 
+-kehadiran di rekod mengikut nama program yang di log masuk oleh responder .
