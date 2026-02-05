@@ -1,0 +1,22 @@
+<<case report structure>>
+ID Kes
+ID Program
+Timestamp
+Responder
+Program
+CP
+Nama Pesakit
+Umur
+Jantina
+Aduan
+Kesedaran
+BP
+PR
+Temp
+dxt
+Rawatan
+Nama perawat
+Masa mula
+Masa akhir
+Status Akhir
+Koordinat
